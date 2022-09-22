@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Mud-assar
+- 👀 I’m interested in gaming...
+- 🌱 I’m currently learning Financial Astrology...
+- 📫 Reach me by github...
+
+<!---
+Mud-assar/Mud-assar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
